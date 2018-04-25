@@ -44,4 +44,4 @@ Instructions to clone and run the project:
 
 ### Acknowledgements
 
-* [Discovering Algebra 2nd Ed.](discovering algebra 2nd edition) - Textbook I got the idea from (ISBN: 1559537639)
+* [Discovering Algebra 2nd Ed.](https://k12.kendallhunt.com/program/discovering-algebra-third-edition) - Textbook I got the idea from (ISBN: 1559537639)

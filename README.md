@@ -6,7 +6,7 @@ I did it with JavaScript instead.
 
 ## Run live
 
-Run it live at [iverson.io/projects/sierpinski](https://iverson.io/projects/sierpinski)
+~Run it live at [iverson.io/projects/sierpinski](https://iverson.io/projects/sierpinski)~
 
 ### How it works
 
